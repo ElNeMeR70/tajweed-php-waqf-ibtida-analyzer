@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-waqf-ibtida-analyzer",
+  "description": "Syntactic-Semantic Waqf & Ibtida Pause Classifier (مصنف الوقف التام والكافي والحسن والقبيح)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
